@@ -1,0 +1,13 @@
+{
+  "name": "testts",
+  "version": "1.0.0",
+  "description": "A simple form demo for testts",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "test": "echo 'No automated tests configured'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
