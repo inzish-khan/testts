@@ -1,0 +1,11 @@
+{
+  "name": "testts",
+  "version": "1.0.0",
+  "description": "Static HTML site with Help button",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
