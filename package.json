@@ -1,0 +1,12 @@
+{
+  "name": "flash-button",
+  "version": "1.0.0",
+  "description": "Static HTML page with Flash button",
+  "scripts": {
+    "serve": "node server.js",
+    "test": "playwright test -c .invowork/acceptance/playwright.config.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
